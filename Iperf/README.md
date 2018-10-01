@@ -27,4 +27,3 @@ java Iperfer -s -p <listen port>
 
 * -s indicates this is the iperf server which should consume data
 * listen port is the port on which the host is waiting to consume data; the port should be in the range 1024 ≤ listen port ≤ 65535
-* You can use the presence of the -s option to determine Iperfer should operate in client mode.
